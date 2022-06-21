@@ -1,5 +1,5 @@
 # Conversor-Criptomonedas-API
-The Ahumado App is a program made in Java with Swing, developed in Netbeans that tries to emulate a restaurant with its menu, orders, payments and more. A database connection with MySQL is used to store user accounts, likewise, the application is a normal desktop application with Swing and has a fairly good UX/UI design.
+Simple web project with HTML5, CSS3 and Javascript about a cryptocurrency converter using the CryptoCompare API to obtain the names of cryptocurrencies and their prices
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -37,20 +37,18 @@ The Ahumado App is a program made in Java with Swing, developed in Netbeans that
 
 
 ## Screenshots
-![login](https://user-images.githubusercontent.com/75222804/174023770-c90f0d9f-a914-4ba7-aada-ec07f67e25b3.jpg)
-![Registro](https://user-images.githubusercontent.com/75222804/174023818-26ffab11-a7d7-44f1-b12e-78cf7b8d0991.jpg)
-![Main](https://user-images.githubusercontent.com/75222804/174023838-06084d5d-7c9e-4ab6-8300-7c24c488e3d6.jpg)
-![Ordenar](https://user-images.githubusercontent.com/75222804/174023854-06ab1d5c-798f-4531-b7c3-7e6109c290b9.jpg)
+![inicio](https://user-images.githubusercontent.com/75222804/174692028-e056ae2e-567a-4888-9e22-12b4d6247ae7.jpg)
+
+
+
+
 
 
 
 
 ## Setup
 The development environment is shaped by: 
-- Netbeans IDE - version 13
-- Java - version 17 LTS (Long Term Support)
-- MySQL Workbench- version 8.0.26
-- Other files .jar are essential to run the app, they are included into the code/directories
+- Visual Studio Code
 
 
 
@@ -59,7 +57,7 @@ It's simple is just a desktop app with its functionalities
 
 
 ## Project Status
-Project is: Completed, the app is finished but some changes can be aplied to improve several functionalities.
+Project is: Progress, the app is finished but some changes can be aplied to improve several functionalities.
 
 
 ## Room for Improvement
